@@ -7,9 +7,9 @@ OuterLayer is a small project where I log IP addresses that are TOR exit nodes. 
 Feel free to clone or download this repo as you see fit. You may also want to fetch the lists programatically:
 
 ```bash
-wget https://raw.githubusercontent.com/maxthauer/OuterLayer/master/results/all-distinct-IPs.csv
+wget https://raw.githubusercontent.com/maxthauer/OuterLayer/master/results/all-distinct-IPs.txt
 
-wget https://raw.githubusercontent.com/maxthauer/OuterLayer/master/results/distinct-IPs-past-30-days.csv
+wget https://raw.githubusercontent.com/maxthauer/OuterLayer/master/results/distinct-IPs-past-30-days.txt
 
 ```
 
